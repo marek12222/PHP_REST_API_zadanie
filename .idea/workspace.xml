@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15209797-504e-49a5-a04b-2b263ac60fc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1aRGkUxdN8ogz4BWkijviNJf18e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15209797-504e-49a5-a04b-2b263ac60fc8" name="Default Changelist" comment="" />
+      <created>1586691135935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586691135935</updated>
+      <workItem from="1586691138390" duration="24907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="-891" key="#Deployment" timestamp="1586691183929">
+      <screen x="-108" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="332" y="-891" key="#Deployment/0.23.1680.981/-108.-1057.1920.1057@-108.-1057.1920.1057" timestamp="1586691183929" />
+    <state x="-8" y="-947" width="1480" height="781" key="DirDiffDialog" timestamp="1586691318781">
+      <screen x="-108" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-8" y="-947" width="1480" height="781" key="DirDiffDialog/0.23.1680.981/-108.-1057.1920.1057@-108.-1057.1920.1057" timestamp="1586691318781" />
+    <state x="425" y="-724" key="com.intellij.ide.util.TipDialog" timestamp="1586691138549">
+      <screen x="-108" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="425" y="-724" key="com.intellij.ide.util.TipDialog/0.23.1680.981/-108.-1057.1920.1057@-108.-1057.1920.1057" timestamp="1586691138549" />
+    <state x="639" y="-819" key="ftp.server.browser" timestamp="1586691180569">
+      <screen x="-108" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="639" y="-819" key="ftp.server.browser/0.23.1680.981/-108.-1057.1920.1057@-108.-1057.1920.1057" timestamp="1586691180569" />
+    <state x="517" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1586707707326">
+      <screen x="-108" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="517" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1680.981/-108.-1057.1920.1057@-108.-1057.1920.1057" timestamp="1586707707326" />
+  </component>
+</project>
